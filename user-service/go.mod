@@ -9,5 +9,3 @@ require (
 	golang.org/x/crypto v0.0.0-20191205180655-e7c4368fe9dd
 	golang.org/x/net v0.0.0-20191109021931-daa7c04131f5
 )
-
-replace github.com/wufly632/laracom/user-service => /Users/wufly/go/wufly632/laracom/user-service
